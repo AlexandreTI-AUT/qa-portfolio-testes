@@ -1,0 +1,8 @@
+# Variáveis sensíveis e sistema
+     .env
+     .DS_Store
+
+     # Dependências e relatórios
+     node_modules/
+     reports/
+     test-results/
